@@ -1,8 +1,8 @@
-## React-Expense-Tracker
-React Expenses Tracker using onState
+## React-Quotes-saver
+React Quotes Saver using FireBase
 
 ## Live Project Link
-[React-Expense-Tracker](https://tracker-expenses-react.netlify.app/)
+[React-Quotes-saver](https://react-quotes-saver.netlify.app/quotes)
 
 # How to fork and clone
 
