@@ -1,4 +1,4 @@
-## React-Quotes-saver
+## React-Quotes-Saver
 React Quotes Saver using FireBase
 
 ## Live Project Link
