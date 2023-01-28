@@ -2,7 +2,7 @@
 React Quotes Saver using FireBase
 
 ## Live Project Link
-[React-Quotes-saver](https://react-quotes-saver.netlify.app/quotes)
+[React-Quotes-Saver](https://react-quotes-saver.netlify.app/quotes)
 
 # How to fork and clone
 
